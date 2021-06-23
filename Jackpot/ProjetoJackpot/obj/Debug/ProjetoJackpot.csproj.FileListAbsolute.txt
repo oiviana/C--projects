@@ -1,0 +1,53 @@
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe.config
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.pdb
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csprojResolveAssemblyReference.cache
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Form1.resources
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Properties.Resources.resources
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.GenerateResource.Cache
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.CoreCompileInputs.cache
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.exe
+c:\users\aluno\source\repos\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.pdb
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe.config
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.pdb
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csprojResolveAssemblyReference.cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Form1.resources
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Properties.Resources.resources
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.GenerateResource.Cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.CoreCompileInputs.cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.exe
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.pdb
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe.config
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.pdb
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csprojResolveAssemblyReference.cache
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Form1.resources
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Properties.Resources.resources
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.GenerateResource.Cache
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.CoreCompileInputs.cache
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.exe
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.pdb
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe.config
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.pdb
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csprojResolveAssemblyReference.cache
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Form1.resources
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Properties.Resources.resources
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.GenerateResource.Cache
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.CoreCompileInputs.cache
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.exe
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.pdb
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe.config
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.exe
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\bin\Debug\ProjetoJackpot.pdb
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csprojAssemblyReference.cache
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Form1.resources
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.Properties.Resources.resources
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.GenerateResource.cache
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.CoreCompileInputs.cache
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.csproj.CopyComplete
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.exe
+G:\03-DIVERSOS\Backup do pc\ProjetoJackpot\ProjetoJackpot\obj\Debug\ProjetoJackpot.pdb

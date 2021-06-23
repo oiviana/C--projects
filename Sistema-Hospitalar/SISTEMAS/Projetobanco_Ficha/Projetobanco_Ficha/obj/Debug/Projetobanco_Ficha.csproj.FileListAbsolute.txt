@@ -1,0 +1,64 @@
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe.config
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.pdb
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\MySql.Data.DLL
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csprojResolveAssemblyReference.cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Form1.resources
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Properties.Resources.resources
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.GenerateResource.Cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.CoreCompileInputs.cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.exe
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.pdb
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe.config
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.pdb
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csprojResolveAssemblyReference.cache
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Form1.resources
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Properties.Resources.resources
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.GenerateResource.cache
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.CoreCompileInputs.cache
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.CopyComplete
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.exe
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.pdb
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe.config
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.pdb
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csprojResolveAssemblyReference.cache
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Form1.resources
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Properties.Resources.resources
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.GenerateResource.Cache
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.CoreCompileInputs.cache
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.exe
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.pdb
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe.config
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.pdb
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csprojResolveAssemblyReference.cache
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Form1.resources
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Properties.Resources.resources
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.GenerateResource.Cache
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.CoreCompileInputs.cache
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.exe
+J:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.pdb
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe.config
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.pdb
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csprojResolveAssemblyReference.cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Form1.resources
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Properties.Resources.resources
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.GenerateResource.Cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.CoreCompileInputs.cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.exe
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.pdb
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe.config
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.exe
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\bin\Debug\Projetobanco_Ficha.pdb
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csprojAssemblyReference.cache
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Form1.resources
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.Properties.Resources.resources
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.GenerateResource.cache
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.CoreCompileInputs.cache
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.csproj.CopyComplete
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.exe
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_Ficha\Projetobanco_Ficha\obj\Debug\Projetobanco_Ficha.pdb

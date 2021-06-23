@@ -1,0 +1,23 @@
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\bin\Debug\SenhaDigital.exe.config
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\bin\Debug\SenhaDigital.exe
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\bin\Debug\SenhaDigital.pdb
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\bin\Debug\MySql.Data.DLL
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.csprojResolveAssemblyReference.cache
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.Form1.resources
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.Properties.Resources.resources
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.csproj.GenerateResource.Cache
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.csproj.CoreCompileInputs.cache
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.exe
+E:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.pdb
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\bin\Debug\SenhaDigital.exe.config
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\bin\Debug\SenhaDigital.exe
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\bin\Debug\SenhaDigital.pdb
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.csprojAssemblyReference.cache
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.Form1.resources
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.Properties.Resources.resources
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.csproj.GenerateResource.cache
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.csproj.CoreCompileInputs.cache
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.csproj.CopyComplete
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.exe
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\SenhaDigital\SenhaDigital\obj\Debug\SenhaDigital.pdb

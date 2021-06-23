@@ -1,0 +1,48 @@
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.exe.config
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.exe
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.pdb
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\MySql.Data.DLL
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csprojResolveAssemblyReference.cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.Form1.resources
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.Properties.Resources.resources
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.GenerateResource.Cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.CoreCompileInputs.cache
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.exe
+F:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.pdb
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.exe.config
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.exe
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.pdb
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Bunifu_UI_v1.5.3.dll
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\MySql.Data.DLL
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csprojResolveAssemblyReference.cache
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.Form1.resources
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.Properties.Resources.resources
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.GenerateResource.Cache
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.CoreCompileInputs.cache
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.exe
+I:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.pdb
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.exe.config
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.exe
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.pdb
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\MySql.Data.DLL
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csprojResolveAssemblyReference.cache
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.Form1.resources
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.Properties.Resources.resources
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.GenerateResource.cache
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.CoreCompileInputs.cache
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.CopyComplete
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.exe
+D:\A R Q U I V O S\01-ETEC\01-2018\01-Matérias Técnicas\DS\4° Projeto\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.pdb
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.exe.config
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.exe
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\bin\Debug\Projetobanco_atendimento.pdb
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csprojAssemblyReference.cache
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.Form1.resources
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.Properties.Resources.resources
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.GenerateResource.cache
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.CoreCompileInputs.cache
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.csproj.CopyComplete
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.exe
+G:\03-DIVERSOS\Backup do pc\4° Projeto\SISTEMAS\Projetobanco_atendimento\Projetobanco_atendimento\obj\Debug\Projetobanco_atendimento.pdb
